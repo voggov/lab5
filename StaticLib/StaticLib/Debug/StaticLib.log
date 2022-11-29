@@ -1,0 +1,34 @@
+﻿  StLib.cpp
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(20,1): warning C4273: AssyncFileCopyTaskStatic: несовместимое связывание dll
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\pch.h(13,40): message : см. предыдущее определение "AssyncFileCopyTaskStatic"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(74,8): warning C4101: dwError: неиспользованная локальная переменная
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(125,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(161,14): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(161,14): message : рекомендуется использовать "%ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(161,14): message : рекомендуется использовать "%lls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(161,14): message : рекомендуется использовать "%Ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(161,14): message : рекомендуется использовать "%ws" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(162,22): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(162,22): message : рекомендуется использовать "%ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(162,22): message : рекомендуется использовать "%lls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(162,22): message : рекомендуется использовать "%Ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(162,22): message : рекомендуется использовать "%ws" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(168,14): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(168,14): message : рекомендуется использовать "%ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(168,14): message : рекомендуется использовать "%lls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(168,14): message : рекомендуется использовать "%Ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(168,14): message : рекомендуется использовать "%ws" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(169,27): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "WCHAR *"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(169,27): message : рекомендуется использовать "%ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(169,27): message : рекомендуется использовать "%lls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(169,27): message : рекомендуется использовать "%Ls" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(169,27): message : рекомендуется использовать "%ws" в строке форматирования
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(163,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(170,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(185,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(206,74): warning C4273: FindFileAndWriteFile: несовместимое связывание dll
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\pch.h(12,39): message : см. предыдущее определение "FindFileAndWriteFile"
+D:\ПТУ\Операционки\Lab5\StaticLib\StaticLib\StLib.cpp(208,9): warning C4101: file: неиспользованная локальная переменная
+  StaticLib.vcxproj -> D:\ПТУ\Операционки\Lab5\StaticLib\Debug\StaticLib.dll
