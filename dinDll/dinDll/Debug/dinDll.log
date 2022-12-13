@@ -2,34 +2,4 @@
 D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
 D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
 D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(2): message : использование предварительно скомпилированного заголовка
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(23,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(59,14): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(59,14): message : рекомендуется использовать "%ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(59,14): message : рекомендуется использовать "%lls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(59,14): message : рекомендуется использовать "%Ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(59,14): message : рекомендуется использовать "%ws" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(60,22): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(60,22): message : рекомендуется использовать "%ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(60,22): message : рекомендуется использовать "%lls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(60,22): message : рекомендуется использовать "%Ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(60,22): message : рекомендуется использовать "%ws" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(66,14): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "2" имеет тип "WCHAR *"
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(66,14): message : рекомендуется использовать "%ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(66,14): message : рекомендуется использовать "%lls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(66,14): message : рекомендуется использовать "%Ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(66,14): message : рекомендуется использовать "%ws" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(67,27): warning C4477: "sprintf_s": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "3" имеет тип "WCHAR *"
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(67,27): message : рекомендуется использовать "%ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(67,27): message : рекомендуется использовать "%lls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(67,27): message : рекомендуется использовать "%Ls" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(67,27): message : рекомендуется использовать "%ws" в строке форматирования
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(61,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(68,7): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(104,74): warning C4273: FindFileAndWriteFile: несовместимое связывание dll
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\Header.h(3,39): message : см. предыдущее определение "FindFileAndWriteFile"
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(106,9): warning C4101: file: неиспользованная локальная переменная
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(135,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(137,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\ПТУ\Операционки\Lab5\dinDll\dinDll\DinamicLib.cpp(184,8): warning C4101: dwError: неиспользованная локальная переменная
   dinDll.vcxproj -> D:\ПТУ\Операционки\Lab5\dinDll\Debug\dinDll.dll

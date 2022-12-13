@@ -7,7 +7,6 @@
 #include "Header.h"
 #include "Header1.h"
 #include "pch.h"
-#include "pch.h"
 
 typedef void (*funclass) ();
 
