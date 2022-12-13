@@ -18,7 +18,7 @@ int main()
 	AssyncFileCopyTaskStatic();
 	printf("Static library func is cancel working\n");
 	system("pause");
-	//FindFileAndWriteFile("E:\\p_p\\");
+	
 	HMODULE hDynamicLib = LoadLibrary(L"D:/ПТУ/Операционки/Lab5/dinDll/Debug/dinDll.dll");
 	if (!hDynamicLib) {
 		printf("Error while load dynamic lib");
