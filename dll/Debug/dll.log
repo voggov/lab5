@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  dllMain.cpp
+     Создается библиотека D:\ПТУ\Операционки\доп\Lab\lab7\dll\Debug\dll.lib и объект D:\ПТУ\Операционки\доп\Lab\lab7\dll\Debug\dll.exp
+  dll.vcxproj -> D:\ПТУ\Операционки\доп\Lab\lab7\dll\Debug\dll.dll
